@@ -1,0 +1,107 @@
+.banner{
+    height: 80%;
+   
+    
+}
+.img{
+    width: 100%;
+    opacity: 0.2;
+}
+
+.container{
+    margin-left: 30%;
+    margin-top: 3rem;
+    width: 45%;
+    height: 20%;
+    background-color: blueviolet;
+}
+.Rating{
+    font-size: 1rem;
+    font-weight: bold;
+    background-color:gold;
+    width: 20%;
+    height: 8%;
+    float: right;
+    color:black;
+    border-radius: 1rem;
+    text-align: center;
+    margin-top: -14rem;
+    
+    margin-right: 1rem;
+    
+}
+.college_informaion{
+    display: flex;
+    flex-direction: row;
+    margin-top: -2.5rem;
+}
+.college_desc{
+    width: fit-content;
+    
+    padding: .5rem;
+    background-color: aquamarine;
+    border-radius: 15%;
+    margin-left: 1rem;
+}
+.college_dir{
+    width: fit-content;
+    
+    padding: .5rem;
+    background-color: aquamarine;
+    border-radius: 15%;
+    margin-left: 1rem;
+}
+.ranking{
+    width: fit-content;
+    
+    padding: .5rem;
+    background-color: aquamarine;
+    border-radius: 15%;
+    margin-left: 8rem;
+}
+h4{
+    display: flex;
+    flex-direction: row;
+}
+.blur{
+    color: gray;
+}
+.green{
+    color: green;
+    font-weight: bold;
+}
+.offer{
+    width: fit-content;
+    padding: auto;
+    background-color: lightgreen;
+    border-radius: 10%;
+}
+.more_inf{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+.more_info1{
+    width: 70%;
+    background-color: aqua;
+}
+.more_info2{
+    text-align: center;
+    
+   width: 30%;
+    background-color: bisque;
+    
+}
+.promoted{
+    background-color: aquamarine;
+    width: fit-content;
+    padding:.2rem;
+    float: right;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: -18rem;
+    border-radius: 30%;
+}
+.red{
+    color: red;
+}
